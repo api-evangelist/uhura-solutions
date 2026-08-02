@@ -1,8 +1,25 @@
 aid: uhura-solutions
 name: Uhura Solutions
-description: Uhura Solutions is a company surfaced as a portfolio company of techstars and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Uhura Solutions is a London-based AI platform for document-driven process
+  automation in financial services, combining fine-tuned large language models, a
+  low-code framework, and a visual workflow engine to deliver intelligent data capture,
+  intelligent document processing, and intelligent process automation for banks and
+  financial institutions including Barclays, Raiffeisen, and Erste Bank. A Techstars
+  portfolio company, Uhura publishes no public developer portal or self-serve API
+  surface; platform access is arranged through sales contact.
 url: https://raw.githubusercontent.com/api-evangelist/uhura-solutions/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://uhurasolutions.com/wp-content/uploads/2023/04/uhura-solutions.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +28,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- Document Processing
+- Process Automation
+- Financial Services
+- Banking
+- Contract Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +46,20 @@ maintainers:
 common:
 - type: Website
   url: https://uhurasolutions.com/
+- type: Blog
+  url: https://uhurasolutions.com/resources/
+- type: Support
+  url: https://uhurasolutions.com/contactus/
+- type: TermsOfService
+  url: https://uhurasolutions.com/2023/03/12/terms-of-service/
+- type: PrivacyPolicy
+  url: https://uhurasolutions.com/2023/03/12/privacy-policy/
+- type: DomainSecurity
+  url: security/uhura-solutions-domain-security.yml
+- type: LLMsTxt
+  url: llms/uhura-solutions-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

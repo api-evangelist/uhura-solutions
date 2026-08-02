@@ -1,0 +1,24 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of uhurasolutions.com
+host: https://uhurasolutions.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+notes: >-
+  No well-known discovery documents are published on uhurasolutions.com.
+  DNS records exist for api.uhurasolutions.com (35.156.120.40) and
+  docs.uhurasolutions.com (137.135.185.123), but neither host answers on
+  ports 80/443 (connection timeout, curl exit 000) — the API surface appears
+  to be private/internal or the records are stale. app./developer./status./
+  trust. subdomains are NXDOMAIN.

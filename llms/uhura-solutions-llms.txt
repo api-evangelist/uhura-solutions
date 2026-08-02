@@ -1,0 +1,27 @@
+# Uhura Solutions
+
+> Uhura Solutions is a London-based AI platform for document-driven process automation in financial services. It combines fine-tuned large language models, a low-code framework, and a visual workflow engine to deliver intelligent data capture, intelligent document processing, and intelligent process automation for banks and financial institutions including Barclays, Raiffeisen, and Erste Bank. Backed by Techstars.
+
+Uhura Solutions publishes no public developer portal, API documentation, or
+self-serve API surface as of 2026-07-21. DNS records exist for
+api.uhurasolutions.com and docs.uhurasolutions.com but neither host is
+publicly reachable — platform access is arranged through sales contact.
+
+## Company
+
+- [Website](https://uhurasolutions.com/): Company homepage
+- [Solutions](https://uhurasolutions.com/solutions/): Intelligent data capture, document processing, and process automation
+- [Platform](https://uhurasolutions.com/platform/): Fine-tuned LLMs, workflow engine, low-code framework
+- [Use Cases](https://uhurasolutions.com/usecases/): Financial-industry use cases
+- [Resources / Blog](https://uhurasolutions.com/resources/): Articles on AI in banking, document automation, ESG, private equity
+- [Contact](https://uhurasolutions.com/contactus/): Get started / sales contact
+
+## Policies
+
+- [Terms of Service](https://uhurasolutions.com/2023/03/12/terms-of-service/)
+- [Privacy Policy](https://uhurasolutions.com/2023/03/12/privacy-policy/)
+- [Cookie Policy](https://uhurasolutions.com/2023/03/12/cookie-policy/)
+
+## API Evangelist profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/uhura-solutions/refs/heads/main/apis.yml): Machine-readable profile of Uhura Solutions in the API Evangelist network
