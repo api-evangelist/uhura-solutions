@@ -45,7 +45,7 @@ tags:
 - Artificial Intelligence
 - Document Processing
 - Process Automation
-- Financial-Services
+- Financial Services
 - Banking
 - Contract Intelligence
 tags_raw:
@@ -56,6 +56,7 @@ tags_raw:
 - Financial Services
 - Banking
 - Contract Intelligence
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
